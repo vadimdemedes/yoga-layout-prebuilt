@@ -13,6 +13,7 @@ declare module "yoga-layout-prebuilt" {
 		YogaJustifyContent,
 		YogaOverflow,
 		YogaPositionType,
-		YogaUnit
+		YogaUnit,
+		YogaMeasureMode,
 	} from "yoga-layout";
 }

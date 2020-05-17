@@ -36,6 +36,6 @@
 		]
 	},
 	"dependencies": {
-		"@types/yoga-layout": "1.9.1"
+		"@types/yoga-layout": "1.9.2"
 	}
 }
