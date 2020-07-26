@@ -13,6 +13,7 @@
 		"node": ">=8"
 	},
 	"scripts": {
+		"build": "./build.sh",
 		"test": "xo && ava",
 		"prepublishOnly": "./build.sh"
 	},

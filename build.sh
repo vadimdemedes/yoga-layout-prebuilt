@@ -1,7 +1,12 @@
 #!/bin/bash
 
 npm rm yoga-layout
-npm i --no-save yoga-layout
+npm i --no-save --ignore-scripts yoga-layout
+npm rm nbind
+npm i --no-save charto/nbind
+cd node_modules/yoga-layout
+npm run build:node
+cd -
 rm -rf yoga-layout
 mkdir -p yoga-layout
 mkdir -p yoga-layout/dist
