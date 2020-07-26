@@ -1,4 +1,4 @@
-# yoga-layout-prebuilt [![Build Status](https://travis-ci.org/vadimdemedes/yoga-layout-prebuilt.svg?branch=master)](https://travis-ci.org/vadimdemedes/yoga-layout-prebuilt)
+# yoga-layout-prebuilt [![test](https://github.com/vadimdemedes/yoga-layout-prebuilt/workflows/test/badge.svg)](https://github.com/vadimdemedes/yoga-layout-prebuilt/actions)
 
 > Prebuilt [yoga-layout](https://github.com/facebook/yoga) package
 
