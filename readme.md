@@ -2,6 +2,11 @@
 
 > Prebuilt [yoga-layout](https://github.com/facebook/yoga) package
 
+## Meaning of Yoga?
+>• As per Yogic scriptures the practice of Yoga leads to the union
+of individual consciousness with that of the Universal
+Consciousness, indicating a perfect harmony between the mind
+and body, Man & Nature.
 
 ## Install
 
