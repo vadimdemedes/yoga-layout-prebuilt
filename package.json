@@ -13,8 +13,9 @@
 		"node": ">=8"
 	},
 	"scripts": {
+		"build": "./build.sh",
 		"test": "xo && ava",
-		"prepublishOnly": "./build.sh"
+		"prepublishOnly": "npm run build"
 	},
 	"main": "yoga-layout/dist/entry-browser",
 	"types": "index.d.ts",
